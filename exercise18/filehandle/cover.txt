@@ -1,0 +1,5 @@
+mode: set
+github.ibm.com/gophercises/Exercise18/filehandle/filehandle.go:11.58,15.2 2 1
+github.ibm.com/gophercises/Exercise18/filehandle/filehandle.go:18.36,21.19 3 1
+github.ibm.com/gophercises/Exercise18/filehandle/filehandle.go:25.2,25.14 1 1
+github.ibm.com/gophercises/Exercise18/filehandle/filehandle.go:21.19,24.3 2 1
