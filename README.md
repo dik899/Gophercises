@@ -24,5 +24,5 @@ Directory Task is exercise 7.
 
 Directory secret is exercise 17.
 
-Directory exercise15 and Exercise18 are exercise 15 and 17 respectively.
+Directory exercise15 and Exercise18 are exercise 15 and 18 from gophercises respectively.
 
